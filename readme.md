@@ -311,3 +311,5 @@ CloudWatch Alarms configured to invoke Lambda automatically.
 ## Tech Stack
 
 AWS (EC2, CloudWatch, SNS, Lambda, SSM, GuardDuty, EventBridge, IAM), Linux, Cloud Monitoring, Automation, Cloud Security
+"# Proactive-Monitor-Security-Auto-Remedation-For-EC2" 
+"# Proactive-Monitor-Security-Auto-Remedation-For-EC2" 
