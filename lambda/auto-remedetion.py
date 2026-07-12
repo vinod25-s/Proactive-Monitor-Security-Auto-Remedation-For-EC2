@@ -64,5 +64,5 @@ def lambda_handler(event, context):
 
     return {
         "statusCode": 200,
-        "message": "Lambda Executed Successfully"
+        "message": "Lambda Code Executed Successfully"
     }
